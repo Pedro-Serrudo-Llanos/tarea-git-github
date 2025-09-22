@@ -1,0 +1,3 @@
+1. Aprendí que Git me ayuda a llevar un historial de cambios.
+2. Aprendí que GitHub es la nube donde guardo y comparto repositorios.
+3. Aprendí a usar comandos básicos como git init, git add, git commit y git push.
